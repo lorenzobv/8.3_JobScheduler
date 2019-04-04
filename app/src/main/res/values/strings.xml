@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="Job_service_message">Job Service</string>
+    <string name="Ran_job">Your Job ran to completion!</string>
+    <string name="wifi">Wifi</string>
+    <string name="any">Any</string>
+    <string name="none">None</string>
+</resources>
